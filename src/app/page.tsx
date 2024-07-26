@@ -1,5 +1,5 @@
-import { Button } from '@nextui-org/react';
+import { Badge, Avatar } from '@nextui-org/react';
 
 export default function Home() {
-  return <Button color="primary">Button</Button>;
+  return <h1>hi</h1>;
 }
